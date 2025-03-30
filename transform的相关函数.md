@@ -1,4 +1,4 @@
-好的，我们来详细地讲解一下 `torchvision.transforms` 模块中的常用函数。
+现在详细地讲解一下 `torchvision.transforms` 模块中的常用函数。
 
 `torchvision.transforms` 是 PyTorch 中专门用于图像预处理和数据增强（Data Augmentation）的模块。它提供了许多现成的类，可以方便地对 PIL Image 对象或 PyTorch Tensor 进行各种转换操作。这些操作对于准备模型输入、提高模型泛化能力至关重要。
 
